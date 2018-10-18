@@ -1,0 +1,39 @@
+/*Element*/
+ul {
+    color : purple;
+}
+li{
+    color : red;
+}
+/*id*/
+#name {
+
+}
+
+/*class*/
+.class_name {
+
+}
+
+/*Star*/ 
+* {
+    /* Apply styles to all elements on the page*/
+}
+
+/*Descendant selector*/
+element tag {
+    /* Apply styles to descendand elements*/
+}
+
+/*Adjacent selectors*/ 
+element + tag {
+    /* Apply styles to adjacent elements*/
+}
+
+/*Attribute Selector*/
+a[href="http://www.google.com"] {
+
+}
+input[type="text"]{
+
+}
